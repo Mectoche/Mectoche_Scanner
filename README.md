@@ -7,4 +7,4 @@ import mediapipe as mp
 from cvzone.FaceDetectionModule import FaceDetector
 ```
 #
-**Bem simples mesmo, só para fins de teste!**
+***Bem simples mesmo, só para fins de teste!***
